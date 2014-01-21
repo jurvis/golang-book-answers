@@ -1,0 +1,16 @@
+1.
+This can be a function signature:
+func sum (xs []float64) float64 {
+
+}
+
+2.
+refer to 7_2.go or 7_2alt.go
+
+3.
+Refer to 7_3.go
+
+4.
+Refer to 7_4.go - pretty similar to example given in the book, just change of numbers and function name.
+
+5.

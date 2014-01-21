@@ -1,0 +1,20 @@
+1.
+you can create a variable from the following ways:
+	var <variable name> <variable type> = <data>
+	OR
+	<variable name> := <data>
+
+2.
+6 (x += 1 represents x = x + 1 and since x := 5, x = 6 when program is run)
+
+3.
+Scope refers to where a particular asset (or in this case, a variable) is available to be accessed by a function. You can determine the scope of the variable by looking if the variable is being declared within or outside a function. A variable declared within a function can only be accessed by that particular function whereas a variable declared outside the functions can be used by any.
+
+4.
+Constants cannot be changed later and are fixed, variables can change.
+
+5.
+Refer to 4_5.go (this program is pretty clear cut, all you really need to do is edit the original program and change the output function)
+
+6.
+Refer to 4_6.go (likewise this program is exactly like the original one, only difference is the operations.)

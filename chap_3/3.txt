@@ -1,0 +1,8 @@
+2. 255
+3. <refer to 3_3.go>
+4. You can find the length of the string by writing a function like that...
+		func main () {
+			words := "hello world"
+			fmt.Println(len(words))
+		}
+5. true

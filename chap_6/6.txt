@@ -1,0 +1,11 @@
+1.
+If the array or slice is defined as x, you can access the fourth element with x[3]
+
+2.
+4
+
+3.
+x[2:5] will give "c, d, e and f"
+
+4.
+Refer to 6_4.go, 6_4alt.go is an alternative version to be able to find largest and smallest numbers
