@@ -14,3 +14,7 @@ Refer to 7_3.go
 Refer to 7_4.go - pretty similar to example given in the book, just change of numbers and function name.
 
 5.
+Refer to 7_5.go
+
+6.
+Defer schedules a function call after the function is complete, panic causes a run time error and recover stops the panic and returns the value passed to the call to panic. You can recover from a run-time panic by paring together the recover function before the panic.
