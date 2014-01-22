@@ -1,0 +1,10 @@
+1.
+You can get the memory address of a variable by using the & operator. For example, &x returns a *int because x is an int.
+
+2.
+For example if I am assigning a value of 5 to i, we have to write * as a prefix and ptr a suffix. Hence it will be, *iptr = 5
+
+3.
+2.25
+
+4.
